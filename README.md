@@ -3,7 +3,7 @@
 ・以下のチュートリアルをベースに作成したサイト  
 　https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 
-・Flaskの勉強目的のため実用性は特にない
+・Flaskの勉強目的として作成
 
 ・venv環境を利用する場合  
 　.\venv\Scripts\activate  
